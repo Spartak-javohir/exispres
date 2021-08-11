@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/Spartak-javohir/exispres/issues"
   },
-  "homepage": "https://github.com/Spartak-javohir/exispres#readme"
+  "homepage": "https://github.com/Spartak-javohir/exispres#readme",
+  "devDependencies": {
+    "express": "^4.17.1"
+  }
 }
