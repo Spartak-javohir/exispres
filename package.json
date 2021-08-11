@@ -1,0 +1,21 @@
+{
+  "name": "09_08_21d",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Spartak-javohir/exispres.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Spartak-javohir/exispres/issues"
+  },
+  "homepage": "https://github.com/Spartak-javohir/exispres#readme"
+}
